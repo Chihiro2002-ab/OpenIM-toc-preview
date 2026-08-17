@@ -1,0 +1,33 @@
+{
+  "referenceCanvas": { "width": 1448, "height": 1086 },
+  "colorReference": "/Users/mac/Downloads/数据5/图片素材/msg_picture_4318dae0d45062c839c771685c6bf23b.png",
+  "applicationTargets": {
+    "desktop": {
+      "navigationWidth": 200,
+      "listWidth": 390,
+      "headerHeight": 72,
+      "layout": {
+        "chats": "navigation + conversation list + chat detail",
+        "contacts": "navigation + contact list + contact detail",
+        "calls": "navigation + fluid workspace",
+        "settings": "navigation + profile summary + settings workspace"
+      }
+    },
+    "mobile": {
+      "breakpoint": 760,
+      "statusHeight": 42,
+      "headerHeight": 58,
+      "bottomNavigationHeight": 72,
+      "layout": "single column with bottom navigation"
+    }
+  },
+  "tokens": {
+    "primary": "#004df9",
+    "accent": "#0cb4fb",
+    "highlight": "#5ae6fc",
+    "selectedSurface": "rgba(0, 77, 249, 0.10)",
+    "border": "#e5e9e7",
+    "warmChatBackground": "#f7f4ef",
+    "radius": 10
+  }
+}

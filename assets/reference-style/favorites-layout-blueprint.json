@@ -1,0 +1,20 @@
+{
+  "sourceReference": "/var/folders/sl/j2rbv28j5kjghnr2bp92zjg40000gn/T/codex-clipboard-4f74c76d-2fab-4dfb-9a4a-6a1b5699834e.png",
+  "referenceCanvas": { "width": 1448, "height": 1086 },
+  "targetViewport": { "width": 1448, "height": 1086 },
+  "columns": {
+    "navigation": { "x": 0, "width": 86 },
+    "favoritesList": { "x": 86, "width": 490 },
+    "detail": { "x": 576, "width": 872 }
+  },
+  "regions": {
+    "title": { "x": 113, "y": 36, "width": 120, "height": 34 },
+    "search": { "x": 113, "y": 98, "width": 438, "height": 54 },
+    "filters": { "x": 113, "y": 174, "width": 438, "height": 38 },
+    "list": { "x": 113, "y": 282, "width": 438, "rowHeight": 108, "gap": 24 },
+    "detailCard": { "x": 607, "y": 58, "width": 812, "height": 987 },
+    "detailTitle": { "x": 607, "y": 82, "width": 760, "height": 48 },
+    "transcript": { "x": 607, "y": 155, "width": 776, "height": 756 },
+    "savedTime": { "x": 607, "y": 949, "width": 776, "height": 69 }
+  }
+}
