@@ -1,0 +1,13 @@
+{
+  "referenceCanvas": { "width": 1600, "height": 1000 },
+  "windowBar": { "x": 0, "y": 0, "width": 1600, "height": 36 },
+  "columns": {
+    "visual": { "x": 0, "y": 36, "width": 774, "height": 964, "widthPct": 0.484 },
+    "form": { "x": 774, "y": 36, "width": 826, "height": 964, "widthPct": 0.516 }
+  },
+  "regions": {
+    "authCard": { "x": 860, "y": 144, "width": 636, "height": 743 },
+    "formControls": { "x": 919, "y": 328, "width": 515 },
+    "leftImage": { "sourceWidth": 1122, "sourceHeight": 1402, "fit": "cover" }
+  }
+}
