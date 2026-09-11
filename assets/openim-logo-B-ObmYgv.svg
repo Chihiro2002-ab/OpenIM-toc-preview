@@ -1,0 +1,9 @@
+<svg viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">OpenIM logo</title>
+  <desc id="desc">三个叠加的蓝色圆形，前景圆形上带有一个白色笑脸弧形</desc>
+  <circle cx="360" cy="580" r="155" fill="#5FE3F0"/>
+  <circle cx="495" cy="435" r="200" fill="#14ABE8"/>
+  <circle cx="605" cy="510" r="215" fill="#1440E5"/>
+  <circle cx="745" cy="230" r="50" fill="#1440E5"/>
+  <path d="M 525 565 Q 525 650 605 650 Q 685 650 685 565 Z" fill="#FFFFFF"/>
+</svg>
